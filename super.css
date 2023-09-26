@@ -1,0 +1,76 @@
+body{
+    padding: 0;
+    margin: 0;
+
+}
+.topo{
+    background-color: blueviolet;
+    color: aliceblue;
+    height: 60px;
+    font-size: 25px;
+    font-family: sans-serif;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+.topo a{
+    text-align: left;
+    font-size:18px;
+    text-decoration: none; 
+    color:blueviolet; 
+    background-color:white; 
+    display: inline-block; 
+    border-style: solid;
+    border-radius: 20px;
+    padding: 5px;
+    right: 500vw;
+    font-weight: bold;
+    padding: 7px;
+}
+
+.secao{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    text-align: center; 
+}
+
+.galeria{
+    display: flex;
+    overflow: scroll;
+    margin: 0 auto 20px auto;
+    height: 250px;
+    padding-right: 70px;
+    text-align: justify;
+}
+
+.imagem-sombra{
+    box-shadow:20px 20px 15px #939393 ;
+    margin: 20px;
+    
+}
+
+ .img-capa{
+    width: 100%;
+ }
+
+ .rodape{
+    background-color: blueviolet;
+    color: aliceblue;
+    height: 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding-top: 5px;
+    text-align: center;
+    text-decoration: none;
+ }
+
+ p {
+    text-align: center;
+    font-size: 20px;
+ }
+
+.img2{
+    width: 1050px;
+    height: 600px;
+
+}
